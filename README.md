@@ -1,8 +1,6 @@
-# Quantitative Finance Tools
+# Quantitative Finance Stuff
 
-A Python implementation of quantitative finance tools featuring Monte Carlo simulations and multi-factor stock rating models with real-time data.
-
-## Features
+## Features so far
 
 - **Live Stock Rater** - Real-time stock ratings (1-10 scale) for any ticker using Yahoo Finance
 - **Multi-Factor Rating Model** - Comprehensive stock analysis across 6 factor categories
