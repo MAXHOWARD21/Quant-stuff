@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Live Stock Rater - Terminal Interface
-Rate any stock using real-time data from Yahoo Finance
-"""
-
 import sys
 import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
