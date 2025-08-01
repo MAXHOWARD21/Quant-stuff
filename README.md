@@ -21,8 +21,8 @@ python3 stock_rater_live.py
 
 Run full analysis:
 ```bash
-python Max.py  # Multi-factor model
-python main.py # Monte Carlo simulations
+python Max.py  
+python main.py 
 ```
 
 ## Live Stock Rater Example
